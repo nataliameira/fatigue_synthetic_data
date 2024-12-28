@@ -34,14 +34,14 @@ The publicly available dataset includes images generated during this study, cove
 ---
 
 ## Example Images
+Aqui está a versão com todos os arquivos `.png` convertidos para `.jpg`:
 
 | Tool              | Example 1                                 | Example 2                                 | Example 3                                 | Example 4                                 |
 |--------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| **Copilot**       | ![copilot_1](./images/copilot_1.png)       | ![copilot_2](./images/copilot_2.png)       | ![copilot_3](./images/copilot_3.png)       | ![copilot_4](./images/copilot_4.png)       |
-| **DALL-E**        | ![dalle_1](./images/dalle_1.png)           | ![dalle_2](./images/dalle_2.png)           | ![dalle_3](./images/dalle_3.png)           | ![dalle_4](./images/dalle_4.png)           |
-| **MidJourney**    | ![midjourney_1](./images/midjourney_1.png) | ![midjourney_2](./images/midjourney_2.png) | ![midjourney_3](./images/midjourney_3.png) | ![midjourney_4](./images/midjourney_4.png) |
-| **Stable Diffusion** | ![stablediffusion_1](./images/stablediffusion_1.png) | ![stablediffusion_2](./images/stablediffusion_2.png) | ![stablediffusion_3](./images/stablediffusion_3.png) | ![stablediffusion_4](./images/stablediffusion_4.png) |
-
+| **Copilot**       | ![copilot_1](./images/copilot_1.jpg)       | ![copilot_2](./images/copilot_2.jpg)       | ![copilot_3](./images/copilot_3.jpg)       | ![copilot_4](./images/copilot_4.jpg)       |
+| **DALL-E**        | ![dalle_1](./images/dalle_1.jpg)           | ![dalle_2](./images/dalle_2.jpg)           | ![dalle_3](./images/dalle_3.jpg)           | ![dalle_4](./images/dalle_4.jpg)           |
+| **MidJourney**    | ![midjourney_1](./images/midjourney_1.jpg) | ![midjourney_2](./images/midjourney_2.jpg) | ![midjourney_3](./images/midjourney_3.jpg) | ![midjourney_4](./images/midjourney_4.jpg) |
+| **Stable Diffusion** | ![stablediffusion_1](./images/stablediffusion_1.jpg) | ![stablediffusion_2](./images/stablediffusion_2.jpg) | ![stablediffusion_3](./images/stablediffusion_3.jpg) | ![stablediffusion_4](./images/stablediffusion_4.jpg) |
 ---
 
 ## Prompts Used
